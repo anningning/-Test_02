@@ -1,4 +1,7 @@
 I begain to use git
+
 fix 1
 fix 2
+
+github fixed
 
