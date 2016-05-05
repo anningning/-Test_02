@@ -1,1 +1,3 @@
 I begain to use git
+
+github fixed
