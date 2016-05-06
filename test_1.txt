@@ -5,5 +5,6 @@ fix 2
 
 github fixed
 
-ʹ��gitgui
+Ê¹ÓÃgitgui
 
+remote changed
