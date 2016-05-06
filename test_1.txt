@@ -5,13 +5,11 @@ fix 2
 
 github fixed
 
-Ê¹ÓÃgitgui
+Ê¹ï¿½ï¿½gitgui
 
-<<<<<<< HEAD
 
 now  I am in the dev  check merge
 
 remote changed
 
-=======
->>>>>>> parent of f4dd936... Update test_1.txt
+
