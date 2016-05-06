@@ -1,10 +1,14 @@
-I begain to use git
+﻿I begain to use git
 
 fix 1
 fix 2
 
 github fixed
 
-ʹ��gitgui
+Ê¹ÓÃgitgui
+
 
 now  I am in the dev  check merge
+
+remote changed
+
