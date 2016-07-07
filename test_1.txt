@@ -1,3 +1,30 @@
+
 github 
+
+﻿I begain to use git
+
+fix 1
+fix 2
+
+github fixed
+
+Ê¹ÓÃgitgui
+
+
+now  I am in the dev  check merge
+
+remote changed
+
+rep changed
+
+
+stash test_0
+
+
+stash test_1
+
+stash test_2
+
+
 
 
