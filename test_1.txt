@@ -17,6 +17,13 @@ rep changed
 
 stash test_0
 
+<<<<<<< Updated upstream
+=======
+stash test_1
+
+stash test_2
+
+>>>>>>> Stashed changes
 stash test_3
 
 
