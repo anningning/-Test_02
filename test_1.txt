@@ -1,15 +1,3 @@
-﻿I begain to use git
-
-fix 1
-fix 2
-
-github fixed
-
-ʹ��gitgui
-
-
-now  I am in the dev  check merge
-
-remote changed
+﻿
 
 
