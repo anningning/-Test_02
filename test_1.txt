@@ -7,6 +7,7 @@ head test
 
 
  origin commit new 
+ origin commit new 1
 
 
 res commit new 
