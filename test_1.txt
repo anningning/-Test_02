@@ -23,4 +23,3 @@ res branch
 >>>>>>> temp
 
 
-orign branch1
