@@ -11,5 +11,7 @@ head test
 
 
 res commit new 
-res commit new 1
+res commit new 1b
+
+ origin branch
 
