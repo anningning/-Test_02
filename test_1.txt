@@ -21,3 +21,6 @@ res commit new 1b
 
 res branch
 >>>>>>> temp
+
+
+orign branch1
