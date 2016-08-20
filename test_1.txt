@@ -22,5 +22,9 @@ res commit new 1b
 res branch
 >>>>>>> temp
 
+<<<<<<< HEAD
 res branch1
+=======
+origin branch1
+>>>>>>> 5e2e885243194e123650d1365d3c14e568ec50d7
 
